@@ -1,0 +1,16 @@
+2020-07-22 16:07:438 INFO  WaitHelper:70 - User clicked on log-in button in Slockover flow page
+2020-07-22 16:07:704 INFO  WaitHelper:78 - Entering User name in Sign-In Page
+2020-07-22 16:07:896 INFO  WaitHelper:81 - Entering password in Sign-In Page
+2020-07-22 16:07:995 INFO  WaitHelper:87 - User Click on log-in button in Sign-In Page
+2020-07-22 16:07:72 INFO  WaitHelper:70 - User clicked on log-in button in Slockover flow page
+2020-07-22 16:07:261 INFO  WaitHelper:78 - Entering User name in Sign-In Page
+2020-07-22 16:07:448 INFO  WaitHelper:81 - Entering password in Sign-In Page
+2020-07-22 16:07:550 INFO  WaitHelper:87 - User Click on log-in button in Sign-In Page
+2020-07-22 16:07:551 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2020-07-22 16:07:02 INFO  WaitHelper:24 - element is visible..
+2020-07-22 16:07:02 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2020-07-22 16:07:49 INFO  WaitHelper:24 - element is visible..
+2020-07-22 16:07:113 INFO  WaitHelper:101 - StackOver flow link is Present in home page
+2020-07-22 16:07:177 INFO  WaitHelper:111 - Tags link is Present in home page
+2020-07-22 16:07:993 INFO  WaitHelper:123 - User Click on log-Out button in Sign-In Page
+2020-07-22 16:07:85 INFO  WaitHelper:130 - log out from the application and land on sign in page
